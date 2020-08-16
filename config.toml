@@ -1,0 +1,15 @@
+baseURL = "https://charlieppark.github.io/"
+title = "CharliePark"
+
+languageCode = "kr-ko"
+theme = "hello"
+disqusShortname = "charlieppark.github.io"
+googleAnalytics = ""
+paginate = 7
+
+[author]
+    name = "Charlie Park"
+    email = "32181928@dankook.ac.kr"
+
+[params]
+    description = "Charlie Park Devlog"
